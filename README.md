@@ -1,21 +1,44 @@
-# React + TypeScript + Vite + shadcn/ui
+# Nikola Kozic — Portfolio
 
-This is a template for a new Vite project with React, TypeScript, and shadcn/ui.
+Personal portfolio site for **Nikola Kozic**, Senior Frontend & OTT Engineer based in Serbia.
 
-## Adding components
+6+ years building high-performance applications across Smart TV, Web, and Mobile platforms. Specialized in IPTV and video delivery systems powering millions of users across Europe.
 
-To add components to your app, run the following command:
+## Highlights
+
+- **IPTV & OTT** — Built and maintained platforms deployed on Samsung (Tizen), LG (webOS), and Set-Top Boxes
+- **Performance** — Custom caching, virtualization, and lazy loading for constrained TV hardware
+- **Scale** — Millions of active users across multiple European markets
+- **Cross-platform** — React, React Native, LightningJS, and native Smart TV ecosystems
+
+## Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **3SS IPTV Platform** | Enterprise IPTV solution powering white-label deployments across Europe |
+| **Arena+** | Balkan diaspora streaming — VOD and Live TV on Samsung & LG |
+| **Vidflow** | Premium video streaming with refactored Smart TV architecture |
+| **Daignal (JawwyTV)** | Large-scale VOD platform with RTL support and infinite scroll |
+| **Inflowmatix** | Real-time infrastructure monitoring with high-frequency data visualization |
+| **TONI-AI** | AI-powered nutrition platform with food recognition and cross-platform apps |
+
+## Tech Stack
+
+**Runtime:** React 19, TypeScript, Vite 7, Tailwind CSS 4, shadcn/ui
+
+## Development
 
 ```bash
-npx shadcn@latest add button
-```
+# Install dependencies
+npm install
 
-This will place the ui components in the `src/components` directory.
+# Start dev server
+npm run dev
 
-## Using components
+# Build for production
+npm run build
 
-To use the components in your app, import them as follows:
-
-```tsx
-import { Button } from "@/components/ui/button"
+# Lint & format
+npm run lint
+npm run format
 ```
