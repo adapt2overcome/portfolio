@@ -1,11 +1,11 @@
 export const personalInfo = {
-  name: "Nikola Kozic",
+  name: "Nikola Kozić",
   title: "Frontend & OTT Engineer",
   location: "Serbia",
   summary:
     "Frontend & OTT Engineer with 6+ years of experience building high-performance, scalable applications across Web, Smart TV, and Mobile platforms. Specialized in React, TypeScript, and Next.js, with deep expertise in performance optimization, state management, and frontend architecture. Proven track record of delivering video-driven and data-intensive applications used by millions of users across European markets, with a strong focus on reliability, efficiency, and seamless cross-platform experiences on constrained devices such as Smart TVs and Set-Top Boxes.",
   tagline:
-    "Building high-performance experiences for Smart TV, Web & Mobile — from living rooms across Europe to screens worldwide.",
+    "Building high-performance experiences for Smart TV, Web & Mobile - from living rooms across Europe to screens worldwide.",
   stats: [
     { value: "6+", label: "Years Experience" },
     { value: "Millions", label: "Users Reached" },
@@ -29,7 +29,11 @@ export const skills = [
   },
   {
     category: "Performance",
-    items: ["Caching", "Virtualization", "Lazy Loading"],
+    items: [
+      "Caching",
+      "Virtualization",
+      "Lazy Loading, Memory usage optimization",
+    ],
   },
   {
     category: "APIs & Data",
@@ -37,7 +41,7 @@ export const skills = [
   },
   {
     category: "Tools & Workflow",
-    items: ["Git", "Webpack", "Jira", "Postman"],
+    items: ["Git", "Webpack", "Vite", "Jira", "Postman"],
   },
   {
     category: "Cloud & Monitoring",
@@ -75,8 +79,8 @@ export const experience: Experience[] = [
   },
   {
     title: "Frontend Engineer",
-    company: "Inflowmatix",
-    period: "2020 — 2022",
+    company: "Shindiri Studio - Zaven - Inflowmatix",
+    period: "2022 — 2024",
     description: [
       "Developed and maintained a real-time infrastructure monitoring platform",
       "Built high-frequency data visualization features and anomaly detection tools",
@@ -86,8 +90,8 @@ export const experience: Experience[] = [
   },
   {
     title: "Frontend Engineer — Admin Platform",
-    company: "Inflowmatix",
-    period: "2020 — 2022",
+    company: "Shindiri Studio - Zaven - Inflowmatix",
+    period: "2022 — 2024",
     description: [
       "Built internal tools to automate workflows and reduce manual operations",
       "Improved team productivity and operational efficiency through custom dashboards",
@@ -96,7 +100,7 @@ export const experience: Experience[] = [
   },
   {
     title: "Frontend & Mobile Developer",
-    company: "5V",
+    company: "5M",
     period: "2021 — 2022",
     description: [
       "Worked on the TONI-AI platform, combining mobile and web applications",

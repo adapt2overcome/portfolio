@@ -1,6 +1,6 @@
-# Nikola Kozic — Portfolio
+# Nikola Kozić — Portfolio
 
-Personal portfolio site for **Nikola Kozic**, Senior Frontend & OTT Engineer based in Serbia.
+Personal portfolio site for **Nikola Kozić**, Senior Frontend & OTT Engineer based in Serbia.
 
 6+ years building high-performance applications across Smart TV, Web, and Mobile platforms. Specialized in IPTV and video delivery systems powering millions of users across Europe.
 
