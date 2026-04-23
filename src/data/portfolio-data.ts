@@ -32,7 +32,8 @@ export const skills = [
     items: [
       "Caching",
       "Virtualization",
-      "Lazy Loading, Memory usage optimization",
+      "Lazy Loading",
+      "Memory usage optimization",
     ],
   },
   {
